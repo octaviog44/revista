@@ -75,10 +75,10 @@ p{
 	border-bottom-right-radius: 3px;
 }
 #portada{
-	background: url('../img/portada.png');
+	background: url('../portada.png');
 }
 #portada-back{
-	background: url('../img/contratapa.png');
+	background: url('../contratapa.png');
 }
 
 #portada, #portada-back{
